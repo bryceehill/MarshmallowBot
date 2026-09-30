@@ -58,3 +58,9 @@ Place a marshmallow on your launcher and set the trigger mechanism.  Drive and s
 
 
 Links to hardware that's compatible
+
+ESP32 C3 + Expansion board:   https://a.co/d/09ZOaLiy
+Drive Wheel Servos with wheels:  https://a.co/d/07Rn7g2P
+4-AA battery holder: https://a.co/d/02fSxSmw
+Servo Wire connector:  https://a.co/d/02fSxSmw
+Micro Servo:  https://a.co/d/05VWJJtf
