@@ -53,3 +53,16 @@ See the complete assembly, wiring, programming, launcher, and troubleshooting gu
 ## Contributing
 
 Improvements to the chassis, launcher, documentation, and code are welcome. Document hardware changes and include clear photographs when possible.
+
+
+## Compatible Hardware
+
+The following components are compatible with the pictured build. Equivalent
+parts may also work, but verify dimensions, voltage, connector type, and servo
+rotation before ordering.
+
+- [ESP32-C3 Super Mini with expansion board](https://a.co/d/09ZOaLiy)
+- [Continuous-rotation drive servos with wheels](https://a.co/d/07Rn7g2P)
+- [4-AA battery holder](https://a.co/d/02fSxSmw)
+- [Servo wire connector](https://a.co/d/02fSxSmw)
+- [Standard micro servo for optional launcher](https://a.co/d/05VWJJtf)
