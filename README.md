@@ -39,6 +39,7 @@ Download Arduino IDE to whatever computer you have.
 Download the MarshmallowBot.ino file to your computer and open it with Arduino IDE
 Open the "Boards Manager" and search for ESP32 boards.  Install the one by "Espressif"
 Plug the usb port into the computer and the ESP32 C3
+Press the "Upload" button
 
 Part 5.  Marshmallow Launcher (optional)
 Mount the 3D printed marshmallow launcher on the chassis via the two #8 tapered screws.
@@ -46,6 +47,13 @@ Place the standard micro servo in the holder on the launcher.  The pivot should 
 Place the mouse trap in the holder.  It will be a challenge to pull it back partially.
 Before putting the horn on the servo connect the servo to the ESP32 C3 Super Mini Expansion board
 Use the instructions to know how to power the board.  You need to connect it correctly otherwise you will either melt components or wires.  Pay close attention to the instructions.
+You need to put the horn on the correct angle.  With the board powered and programmed, connect a wifi connected device to the wifi networked called "MarshmallowBot" 
+Use the password 12345678 to gain access.
+Point the browser on that device to 192.168.4.1  (Put it in the address bar)
+At this point you should have an interface to control the bot.
+Use the "fire" button to move the trigger servo.  Install the horn so that it will press the trigger of the mouse trap.  Screw it in.
+Now you get to build your own method to launch the marshmallow.  Be creative.  You can 3D print, or use a plastic spoon, or popscicle sticks.  Duct tape is helpful.  
+Place a marshmallow on your launcher and set the trigger mechanism.  Drive and shoot.
 
 
 
